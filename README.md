@@ -19,13 +19,12 @@ The number images can have 5 different background colors.
 ## Usage
 
 ```
-Change on index.js
-idx = number of images to generate
-max = max number to generate
-```
-
-```
 git clone <this-repo>
 npm install
 npm run randos
+```
+```
+Change on index.js
+idx = number of images to generate
+max = max number to generate
 ```
